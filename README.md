@@ -1,4 +1,4 @@
-# youtubepostslinksextractor
+# youtubequoteslinksextractor
 This extracts post links and posts names from multiple youtube channel's post page.
 
 # How To:
@@ -27,3 +27,19 @@ You can keep your terminal open on the side to see how much time is remaining fo
 
 
 A new file will be created when the links are extracted. You can copy paste it directly in database or excel and it will retain it's structure since it has a tab character in between then.
+
+
+# For Debugging
+{
+    "name": "Python: Auto Attach",
+    "type": "python",
+    "request": "attach",
+    "port": 3000,
+    "host": "localhost",
+    "pathMappings": [
+        {
+            "localRoot": "${workspaceFolder}",
+            "remoteRoot": "."
+        }
+    ]
+}
