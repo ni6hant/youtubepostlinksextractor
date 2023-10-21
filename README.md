@@ -1,4 +1,4 @@
-# youtubevideoslinksextractor
+# youtubepostslinksextractor
 This extracts post links and posts names from multiple youtube channel's post page.
 
 # How To:
